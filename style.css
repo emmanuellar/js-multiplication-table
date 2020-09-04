@@ -1,0 +1,27 @@
+.container{
+    height:100px;
+    width:180px;
+    padding:50px;
+    background-color: rgb(236, 203, 15);
+    margin:200px auto 0px;
+}
+body{
+    background-image: url(./imgg.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+button{
+    padding:3px 10px;
+    background-color: aliceblue;
+    color:#000;
+    margin-left:40px;
+    margin-top:20px;
+}
+.show{
+    height:200px;
+    width:180px;
+    padding:50px;
+    background-color: #000;
+    margin:0px auto;
+    color: #fff;
+}
